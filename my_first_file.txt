@@ -1,7 +1,2 @@
-My git is too goot
-git outta her
-
-My status has not changed to you
-How is this not saving>!?!??!
-I'
-m getting yoSumpasdfj
+I'm adding text to my first file
+Added line to my first file on dev branch
